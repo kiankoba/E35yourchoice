@@ -1,0 +1,32 @@
+body{
+  font-family: Raleway, serif;
+  font-weight: bold;
+  color: #8d8d8d;
+}
+
+.ui.item{
+  color: #5b5b5b!important;
+  font-size: 14px!important;
+  font-weight: 400!important;
+}
+
+.mainsec{
+  background: url(https://i0.wp.com/manasurge.team/wp-content/uploads/2017/09/SFL_Tier_List.jpg?fit=1024%2C576&ssl=1) no-repeat;
+  max-width: 1200px;
+  height: 675px;
+  margin: 0 auto;
+  background-size: 100%;
+  font-family: Raleway, serif;
+  padding: 13px 13px 13px 13px;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: none;
+  color: inherit;
+}
